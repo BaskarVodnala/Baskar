@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, REST APIs, Frontend Development, and Manual Testing. Angular Developer with 4 years of experience in enterprise web application development and product-based environments. Passionate about building scalable, high-performance, and user-friendly frontend applications using Angular and modern web technologies. Additionally, experienced in manual testing, including functional testing, UI validation, bug identification, and ensuring application quality throughout the development lifecycle.**
 
-- 📫 How to reach me **baskerraj9@gamil.com**
+- 📫 How to reach me **baskerraj98@gamil.com**
 
 - 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile](https://www.naukri.com/mnjuser/profile)
 
