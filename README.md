@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Projects and Skill Development**
 
-- 🌱 I’m currently learning **I’m currently learning Node.js, Express.js, and Backend Development Concepts**
+- 🌱 **I’m currently learning Node.js, Express.js, and Backend Development Concepts**
 
 - 👯 I’m looking to collaborate on **Open Source Angular Projects**
 
